@@ -33,4 +33,4 @@ This project replicates the basic layout and design of the Google search page fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/maheshbatta938/Google-clone.git
+   git clone https://github.com/maheshbatta938/Google--clone.git
